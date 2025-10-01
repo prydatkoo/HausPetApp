@@ -1,6 +1,7 @@
 """
-HausPet AI Server - Final Version with JWT Authentication
+HausPet AI Server - Production Version with JWT Authentication
 Created by Maryan - Full Stack Developer
+Connected to GitHub for auto-deployment
 """
 import os
 import datetime
