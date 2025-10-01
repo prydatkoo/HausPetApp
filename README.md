@@ -139,7 +139,7 @@ MIT License — See LICENSE file
 
 - Documentation: [mobile/docs/](./mobile/docs/)
 - Issues: GitHub Issues
-- Email: support@hauspet.net
+- Email: info@hauspet.net
 
 ---
 
