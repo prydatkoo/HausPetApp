@@ -1,6 +1,10 @@
 # HausPet — Smart Pet Care Platform
 
-Comprehensive pet health monitoring and location tracking system with smart collar integration.
+🐾 Comprehensive pet health monitoring and location tracking system with smart collar integration.
+
+🌐 **[Visit HausPet.net](https://www.hauspet.net/)** | 📱 [Download App](#) | 📖 [Documentation](mobile/docs/)
+
+---
 
 ## 📁 Repository Structure
 
@@ -137,10 +141,18 @@ MIT License — See LICENSE file
 
 ## 🆘 Support
 
-- Documentation: [mobile/docs/](./mobile/docs/)
-- Issues: GitHub Issues
-- Email: info@hauspet.net
+- 🌐 Website: [www.hauspet.net](https://www.hauspet.net/)
+- 📖 Documentation: [mobile/docs/](./mobile/docs/)
+- 🐛 Issues: [GitHub Issues](https://github.com/prydatkoo/HausPetApp/issues)
+- 📧 Email: support@hauspet.net
+
+## 🔗 Links
+
+- **Website:** [www.hauspet.net](https://www.hauspet.net/)
+- **GitHub:** [github.com/prydatkoo/HausPetApp](https://github.com/prydatkoo/HausPetApp)
+- **Documentation:** [Full Docs](./mobile/docs/)
 
 ---
 
-**HausPet** — Keeping pets safe, healthy, and happy 🐾
+**HausPet** — Keeping pets safe, healthy, and happy 🐾  
+Made with ❤️ by [Maryan Prydatko](https://github.com/prydatkoo)
