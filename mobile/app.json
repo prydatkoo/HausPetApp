@@ -1,0 +1,40 @@
+{
+  "expo": {
+    "name": "HausPetApp",
+    "slug": "HausPetApp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.hauspet.app",
+      "infoPlist": {
+        "NSPhotoLibraryUsageDescription": "This app needs access to your photo library so you can upload pictures of your pets.",
+        "NSMicrophoneUsageDescription": "This app uses the microphone for voice chat with Dr. HausPet.",
+        "NSSpeechRecognitionUsageDescription": "This app uses speech recognition to understand your voice commands and questions.",
+        "NSLocationWhenInUseUsageDescription": "We use your location to show your pet's live position and nearby services.",
+        "NSLocationAlwaysAndWhenInUseUsageDescription": "We use your location to track your pet even when the app is in the background."
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      "expo-audio"
+    ]
+  }
+}

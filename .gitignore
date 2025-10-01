@@ -1,0 +1,28 @@
+# Root gitignore
+
+# Mobile app (managed by mobile/.gitignore)
+mobile/node_modules/
+mobile/.expo/
+mobile/ios/
+mobile/android/
+mobile/dist/
+
+# Backend (managed by backend/.gitignore)
+backend/ai-server/__pycache__/
+backend/ai-server/*.pyc
+backend/ai-server/venv/
+backend/ai-server/.env
+
+# IDEs & OS
+.vscode/
+.idea/
+.DS_Store
+*.swp
+
+# Logs
+*.log
+npm-debug.log*
+
+# Local backup files (private)
+LOCAL_ENV_BACKUP.md
+SECURITY_AUDIT.md

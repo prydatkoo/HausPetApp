@@ -1,0 +1,27 @@
+{
+  "dogs": [
+    "Labrador Retriever",
+    "German Shepherd",
+    "Golden Retriever",
+    "French Bulldog",
+    "Bulldog",
+    "Poodle",
+    "Beagle",
+    "Rottweiler",
+    "German Shorthaired Pointer",
+    "Dachshund",
+    "Goldendoodle"
+  ],
+  "cats": [
+    "Ragdoll",
+    "Exotic Shorthair",
+    "Maine Coon",
+    "Persian",
+    "British Shorthair",
+    "Devon Rex",
+    "Abyssinian",
+    "American Shorthair",
+    "Scottish Fold",
+    "Sphynx"
+  ]
+}
